@@ -28,13 +28,16 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?account_id=92752498)
 --->
 
-<h1 align="center">Hi 👋, I'm Vaibhav Garg</h1>
+<h1 align="center">Hi, I'm Vaibhav Garg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;MERN+Developer;Always+learning+new+things"></a>
+</p>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevaibhavgarg&label=Profile%20views&color=0e75b6&style=plastic" alt="thevaibhavgarg" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevaibhavgarg" alt="thevaibhavgarg" /></a> </p>
 
-<img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
 - 🌱 I’m currently studying **B.Tech from LNCTS**
 
@@ -50,7 +53,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **No one can help you but yourself.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-garg-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-garg-" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thevaibhavgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thevaibhavgarg" height="30" width="40" /></a>
