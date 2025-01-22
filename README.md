@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **No one can help you but yourself.**
 
+<hr>
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-garg-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-garg-" height="30" width="40" /></a>
@@ -62,12 +63,15 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/vaibhavgarg2003vg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavgarg2003vg" height="30" width="40" /></a>
 </p>
 
+<hr>
 <h3 align="left">Technologies That I Know👨🏻‍💻:</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,express,figma,git,html,java,js,mongodb,mysql,netlify,nodejs,npm,postman,powershell,py,react,redux,tailwind,vite,vscode,windows&perline=14" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevaibhavgarg&show_icons=true&locale=en&layout=compact" alt="thevaibhavgarg" /></p>
+<hr>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevaibhavgarg&show_icons=true&locale=en&layout=compact" alt="thevaibhavgarg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevaibhavgarg&show_icons=true&locale=en" alt="thevaibhavgarg" /></p>
 
