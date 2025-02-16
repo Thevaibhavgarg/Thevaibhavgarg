@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **https://www.linkedin.com/in/vaibhav-garg-**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17VIYOJNuQv-Fj-HDGqw13zuMqfV5SA_x/view?usp=sharing](https://drive.google.com/file/d/17VIYOJNuQv-Fj-HDGqw13zuMqfV5SA_x/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17VIYOJNuQv-Fj-HDGqw13zuMqfV5SA_x/view?usp=sharing](https://drive.google.com/file/d/17VIYOJNuQv-Fj-HDGqw13zuMqfV5SA_x/view?usp=sharing](https://drive.google.com/file/d/1TFtDszhorV299z31NCSsLNnUcFdwrPa1/view?usp=sharing)
 
 - ⚡ Fun fact **No one can help you but yourself.**
 
