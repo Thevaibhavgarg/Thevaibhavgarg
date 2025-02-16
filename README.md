@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
-- 👨‍💻 All of my projects are available at [here](https://thevaibhavgarg.github.io/Portfolio_website/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://thevaibhavgarg.github.io/Portfolio_website/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/vaibhav-garg-)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TFtDszhorV299z31NCSsLNnUcFdwrPa1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://vaibhav-garg.tiiny.site)
 
 - ⚡ Fun fact **No one can help you but yourself.**
 
