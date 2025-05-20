@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+### <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-garg-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-garg-" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thevaibhavgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thevaibhavgarg" height="30" width="40" /></a>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### <h3 align="left">Technologies That I Know👨🏻‍💻:</h3>
+### <h3 align="left">Technologies That I Know👨🏻‍💻</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,express,figma,git,html,java,js,mongodb,mysql,netlify,nodejs,npm,postman,powershell,py,react,redux,tailwind,vite,vscode,windows&perline=14" />
 </a>
@@ -81,9 +81,18 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-### <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevaibhavgarg&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="thevaibhavgarg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevaibhavgarg&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="thevaibhavgarg" /></p>
+### 📊 GitHub Stats
+<p align="center">
+ <!-- <a href="https://https://github.com/thevaibhavgarg/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaibhav Garg streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavgarg&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a> 
+ <br/> --->
+<a href="https://github.com/thevaibhavgarg/github-readme-stats"><img alt="Vaibhav Garg Github Stats" src="https://github-readme-stats.vercel.app/api?username=thevaibhavgarg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/thevaibhavgarg/github-readme-stats"><img alt="Vaibhav Garg Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavgarg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+</p>
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavgarg&" alt="thevaibhavgarg" /></p> --->
 
